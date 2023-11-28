@@ -12,3 +12,5 @@ Then i exported the larger clean df as a csv and am now working on a dashboard i
 
 ![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/b74b8080-1a0f-4e8b-ba04-e7e23977d197)
 
+I intend to work on this to explore insights on the affect of the introduction of VAR into the Premier league. Whilst taking Covid postponed matches and the psychological impact of reduced crowds on players during those seasons.
+
