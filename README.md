@@ -13,7 +13,7 @@ Then decided to concatenate all of the seasons together into a large dataframe a
 Then I exported the larger clean df as a csv and am now working on a dashboard in Power BI in order to dive deeper. 
 
 
-Initially we can see from the overall years there is definately some seasonality involved which we can look at. Aslo at a quick glance the trend is increasing. 
+Initially we can see from the overall years there is definately some seasonality involved which we can look at. Also at a quick glance the trend is increasing. 
 ![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/781bc896-88cf-4553-94d2-039bb142362e)
 
 
