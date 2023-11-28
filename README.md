@@ -5,11 +5,16 @@
 The purpose of this project was to join two passions, football and analysis and do some exploratory analysis on an kaggle dataset I found containing data on Premier League games spanning 20+years.
 I used installed python into a .venv and used VS code in order to explore and interrogate the csv files I had downloaded. 
 
+Firstly i checked data quality and needed to do some rudimentary cleaning and filtering. I also found incompletion of the data 7months missing from 2020 i imagine this may have something to do with number of matches abandoned due to Coronavirus. But must be taken into consideration when viewing any potential aggregated data points around that timeframe.
+
+![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/7e35b574-03e9-467f-af02-37cdf513c6b2)
+
+
 
 Having had a brief look I did some initial plots to have a look at referees and cards given in individual seasons.
 ![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/1814666e-a9ed-4d69-a471-e0df5fdefeb1)
 
-Then decided to concatenate all of the seasons together into a large dataframe and clean the data in order to see if there were any broader trends. 
+Then decided to concatenate all of the seasons together into a large dataframe and  uniformly format several columns in order to see if there were any broader trends. 
 Then I exported the larger clean df as a csv and am now working on a dashboard in Power BI in order to dive deeper. 
 
 
@@ -18,6 +23,7 @@ Initially we can see from the overall years there is definately some seasonality
 
 
 
-On a closer inspection whilst the dip during the Covid pandemic of Yellow Cards would make sense, the data is incomplete. We are missing 7 months worth of matches during 2020 ![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/7e35b574-03e9-467f-af02-37cdf513c6b2)
+Here we can see averag
+
 
 
