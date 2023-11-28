@@ -1,4 +1,7 @@
-# EPL_Analysis
+# ![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/361a5f08-4a25-45fb-9bcc-8fddf0e0dedb)
+
+
+
 The purpose of this project was to do some exploratory analysis on an kaggle dataset I found containing data on Premier League games spanning 20+years
 I used installed python into a .venv and used VS code in order to explore and interrogate the csv files i had downloaded. 
 Having had a biref look i did some initial plots to have a look at referees and cards given in individual seasons
