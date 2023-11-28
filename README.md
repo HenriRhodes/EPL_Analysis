@@ -3,4 +3,4 @@ The purpose of this project was to do some exploratory analysis on an kaggle dat
 I used installed python into a .venv and used VS code in order to explore and interrogate the csv files i had downloaded. 
 Having had a biref look i did some initial plots to have a look at referees and cards given in individual seasons
 Then decided to concatenate all of the seasons together into a large dataframe and clean the data in order to see if there were any broader trends. 
-I am now working on a dashboard in Power BI in order to dive deeper. 
+Then i exported the larger clean df as a csv and am now working on a dashboard in Power BI in order to dive deeper. 
