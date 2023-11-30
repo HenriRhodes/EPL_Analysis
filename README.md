@@ -23,8 +23,9 @@ Initially we can see from the overall years there is definately some seasonality
 
 
 
-Here we can see average Yellow cards per match increasing across time 
-![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/2470e75b-a70e-410f-8516-7dbf2212e50e)
+Here we can see average Yellow cards per match increasing across time with one particular outlier, 2004 only had an average 2.39
+![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/65c52d02-b345-4368-b337-8017e1c562dc)
+
 
 
 
