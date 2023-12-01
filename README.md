@@ -29,7 +29,8 @@ Here we can see average Yellow cards per match increasing across time with one p
 
 
 Interestingly in contrast average red cards seem to have a negative gradient 
-![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/4b5cfc64-9109-4133-bd69-69af051cdb68)
+![image](https://github.com/HenriRhodes/EPL_Analysis/assets/146751862/978f39ee-ddf2-4568-8223-b917cd033809)
+
 
 
 
